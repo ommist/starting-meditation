@@ -91,11 +91,11 @@ Meditation is a latin word, and it means something like contemplation or reflect
 
 Once you've done 10 minutes of meditation every day for 30 days, you can go to the next level. If you did it for 26, and not 30 days, start over until you actually have 30 days consecutive training. This is important, because continuity is more important than the quality of your practice. You will get results if you're consistent. The same pattern is true for all of these goals. There's no need to do a 10-day silent retreat if you're not regularly sitting for 40 minutes every day. There's no rush.
 
-Level 2: 20 minutes of meditation every day. Goal: hit 30 consecutive days.
-Level 3: 40 minutes of meditation every day. Goal: hit 30 consecutive days.
-Level 4: Try out a 10-day silent retreat. Goal: you've completed a retreat.
-Level 5: Start a meditation group. Goal: you meet regularly each week.
-Level 6: Learn different types of meditation. Goal: you know the difference between concentration, open awareness, insight, and metta meditation. You can switch awareness objects: breath, words, visualization.
-Level 7: Learn supporting practices. Goal: you've mastered breathing exercises that help steady your mind.
+- Level 2: 20 minutes of meditation every day. Goal: hit 30 consecutive days.
+- Level 3: 40 minutes of meditation every day. Goal: hit 30 consecutive days.
+- Level 4: Try out a 10-day silent retreat. Goal: you've completed a retreat.
+- Level 5: Start a meditation group. Goal: you meet regularly each week.
+- Level 6: Learn different types of meditation. Goal: you know the difference between concentration, open awareness, insight, and metta meditation. You can switch awareness objects: breath, words, visualization.
+- Level 7: Learn supporting practices. Goal: you've mastered breathing exercises that help steady your mind.
 
-Now you are ready to meditate. Float on guru. Namaste.
+### Now you are ready to meditate. Float on guru. Namaste.
