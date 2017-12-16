@@ -8,4 +8,4 @@ The goal of this project is to provide a simple meditation guide in .txt and .md
 
 1. Copy and paste either the .txt file or .md file (depending on the format needed) into your blog post or website code. 
 2. Tweak as needed.
-3. That's it.
+3. That's it. Now you're sharing meditation with the world! Namaste.
