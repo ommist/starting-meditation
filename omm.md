@@ -99,3 +99,5 @@ Once you've done 10 minutes of meditation every day for 30 days, you can go to t
 - Level 7: Learn supporting practices. Goal: you've mastered breathing exercises that help steady your mind.
 
 ### Now you are ready to meditate. Float on guru. Namaste.
+
+###### This is a modified version of the opinionated, minimalistic how-to guide for meditation started by [Mattis @ Lightly.io](https://github.com/lightly-io/starting-meditation). Both the original version, and this version are published under the [Creative Commons 4.0 Share Alike license](https://creativecommons.org/licenses/by-sa/4.0/).
