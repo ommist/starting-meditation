@@ -16,8 +16,7 @@ Get started with meditation
               ."" '<  `.___\_<|>_/___.' _> \"".
              | | :  `- \`. ;`. _/; .'/ /  .' ; |
              \  \ `-.   \_\_`. _.'_/_/  -' _.' /
-   ===========`-.`___`-.__\ \___  /__.-'_.'_.-'================
-                           `=--=-'                    hjw (http://textart.io/art/tag/meditation/1)
+              `-.`___`-.__\ \___  /__.-'_.'_.-' hjw (http://textart.io/art/tag/meditation/1)
 
 Meditation is an efficient to way decrease stress and increase presence. But it can be hard to know where to begin. Here's a simple, open-source how-to guide.
 
