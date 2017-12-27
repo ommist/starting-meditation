@@ -1,7 +1,7 @@
 # Starting Meditation
 ### An open source meditation guide in TXT, MD, and HTML format
 
-A modified version of the opinionated, minimalistic how-to guide for meditation started by [Mattis @ Lightly.io](https://github.com/lightly-io/starting-meditation). Both the original version, and this version are published under the [Creative Commons 4.0 Share Alike license](https://creativecommons.org/licenses/by-sa/4.0/).
+This is a modified version of the opinionated, minimalistic how-to guide for meditation started by [Mattis @ Lightly.io](https://github.com/lightly-io/starting-meditation). Both the original version, and this version are published under the [Creative Commons 4.0 Share Alike license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The goal of this project is to provide a simple meditation guide in .txt, .md, and .html format so that anyone can easily add the guide to their blog or other types of websites. If you are a meditation guru, I'd love to hear any suggestions you have to make this guide better. Message me at [Ommist](https://omm.ist). You may also start your own version like I have done here, but please abide by the CC license.
 
